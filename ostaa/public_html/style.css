@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-family: Impact;
+}
+#addUser, #addItem {
+    font-size: 24px;
+    margin: 15px;
+}
